@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">submission</string>
+    <string name="searchbar_hint">masukkan nama user</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
